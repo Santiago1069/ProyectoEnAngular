@@ -1,27 +1,34 @@
 # ProyectoDeAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
-## Development server
+## Contenido del archivo
+   
+* Introducción
+* Requerimientos
+* Instalación
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## INTRODUCCIÓN
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Es la estructura de un proyecto en **Angular**
 
-## Build
+![imagen de la estructura del proyecto en angular](https://user-images.githubusercontent.com/66139020/200203946-e16ce053-56f6-4a2d-838a-1b68289dfc98.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## REQUERIMIENTOS
 
-## Running end-to-end tests
+Este proyecto requiere los siguientes requisitos:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* **NodeJS**: Si no tienes **NodeJS** instalado en tu computador, puedes dar clic en el siguiente link para dirigirte a una página que te dicen el paso a paso de como instalar **NodeJS** y **NPM** (https://www.cursosgis.com/como-instalar-node-js-y-npm-en-4-pasos/)
+* **Visual Studio Code**: Es un editor de código puedes utilizar cualquier otro que acepte **JavaScript**, ya que **Angular** está basado en el lenguaje de programación **TypeScript**, si no tiene descargado **Visual Studio Code** puedes dar clic en el link para dirigirte a una página oficial de **Visual Studio Code** (https://code.visualstudio.com/?wt.mc_id=vscom_downloads) 
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## INSTALACIÓN
+
+* **Clona** el repositorio en una carpeta del computador desde la terminal de su computador desde el CMD.
+* **Instala** las dependencias del proyecto desde el CMD ubicándose en la carpeta que clono el repositorio, las descarga con **npm i** o **npm install**
+
+
